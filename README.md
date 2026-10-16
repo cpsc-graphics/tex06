@@ -11,7 +11,7 @@ There is **no missing code** for this exercise.
 
 During the tutorial, your TA will cover key concepts related to the design of the starter repository. Please ensure you thoroughly understand how this pipeline operates.
 
-Compilie and run the provided executables in the starter repo. Please ensure that you understand how the world coordinate system is setup for the two example programs. Perform the following exploration tasks.
+Compile and run the provided executables in the starter repo. Please ensure that you understand how the world coordinate system is setup for the two example programs. Perform the following exploration tasks and demonstrate the results to your TA for grading.
 
 1. **Change the camera:** In either the sphere or cube example, move the camera backwards and observe how the rendering changes. Ensure that the program is behaving as expected.
 2. **Rotate about a different axis** Change the axis of rotation (for one of the examples); ensure that the result is as expected.
